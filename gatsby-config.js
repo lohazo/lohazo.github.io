@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Giang Tran`,
+    name: `Giang Tran`,
+    siteUrl: `https://lohazo.github.io`,
+    description: `This is Giang Tran personal website`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hello world, this is Jang's blogs`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/jangtranhai`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/lohazo`,
       },
       {
         name: `instagram`,
@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/jangeddy/`,
       },
       {
         name: `dribbble`,
@@ -59,8 +59,7 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
+      options: {},
     },
   ],
 };
