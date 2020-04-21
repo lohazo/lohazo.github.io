@@ -1,6 +1,8 @@
 backend: # Set up your backend
   name: github
   repo: lohazo/lohazo.github.io
+  branch: develop
+  site_domain: wizardly-meninsky-fd5ef8.netlify.app
 
 local_backend: true # Optional if you want to use the local proxy mode
 
